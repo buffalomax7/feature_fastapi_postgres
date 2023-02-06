@@ -1,0 +1,6 @@
+py -m venv venv
+venv\Scrpts\Activate\
+pip install fastapi
+pip install sqlalchemy
+pip install "uvicorn[standard]"
+uvicorn main:app --reload
