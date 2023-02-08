@@ -1,6 +1,3 @@
 "# feature_fastapi_postgres"
-Hello world!
 
-
-It is very good.
-
+This is python FastAPI project for backend.
